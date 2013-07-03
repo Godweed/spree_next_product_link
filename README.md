@@ -1,6 +1,10 @@
 SpreeNextProductLink
 ====================
 
+![](http://dl.dropbox.com/u/582291/Screenshots/xnrk.png)
+
+Add a next product link on the product edit page.
+
 Introduction goes here.
 
 Installation
