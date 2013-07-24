@@ -13,7 +13,7 @@ Installation
 Add spree_next_product_link to your Gemfile:
 
 ```ruby
-gem 'spree_next_product_link'
+gem 'spree_next_product_link', :github => "Hates/spree_next_product_link"
 ```
 
 Bundle your dependencies and run the installation generator:
