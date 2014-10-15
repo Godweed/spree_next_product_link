@@ -2,6 +2,6 @@
      sequence 10 -->
 <% if @product.next_by_name %>
   <li>
-    <%= link_to_with_icon 'icon-forward', Spree.t(:next_product), edit_admin_product_path(@product.next_by_name) %>
+    <%= link_to_with_icon 'forward', Spree.t(:next_product), edit_admin_product_path(@product.next_by_name) %>
   </li>
 <% end %>
